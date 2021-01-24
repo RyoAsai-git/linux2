@@ -1,0 +1,300 @@
+erver_lesson/linux_practice/public
+   94  ls
+   95  cd server_lesson
+   96  ls
+   97  cd linux_practice/
+   98  ls
+   99  git add .
+  100  git diff -staged
+  101  git diff --staged
+  102  git commit -m "inux_practice/publicディレクトリ作成"
+  103  git status
+  104  git diff
+  105  git status
+  106  git push origin master
+  107  ls
+  108  cd ..
+  109  ls
+  110  rm server_lesson
+  111  rmdir server_lesson
+  112  rm -r server_lesson
+  113  ls
+  114  cd ..
+  115  ls
+  116  mkdir server_lesson/linux_practice/public
+  117  mkdir -p server_lesson/linux_practice/public
+  118  ls
+  119  cd server_lesson
+  120  ls
+  121  cd ..
+  122  git add .
+  123  pwd
+  124  ls
+  125  git status
+  126  cd server_lesson/
+  127  git status
+  128  git add .
+  129  git commit -m "linux_practice/publicディレクトリ作成"
+  130  git branch
+  131  git status
+  132  git add .
+  133  git push origin master
+  134  git init
+  135  git git remote add origin https://github.com/RyoAsai-git/linux2
+  136  git remote add origin https://github.com/RyoAsai-git/linux2
+  137  ksw
+  138  ls
+  139  cd linux_practice
+  140  cd ..
+  141  touch test.txt
+  142  git add .
+  143  git diff
+  144  git commit -m "test"
+  145  git push origin maseter
+  146  git push origin master
+  147  ls
+  148  rm test.txt
+  149  cd linux_practice/
+  150  touch test.txt
+  151  git add .
+  152  git commit -m "test"
+  153  git push origin master
+  154  rm test.txt
+  155  ls
+  156  cd ..
+  157  git add .
+  158  git commit -m "test.txt削除"
+  159  git push origin master
+  160  ls
+  161  cd ..
+  162  cd server_lesson/
+  163  ls
+  164  cd linux_practice/
+  165  ls
+  166  cd ..
+  167  cd serq
+  168  cd server_lesson/
+  169  git add .
+  170  git add --ignore-removal
+  171  git add . --ignore-removal
+  172  git commit -m "text.txt削除"
+  173  git push origin RyoAsai
+  174  git push origin master
+  175  git status
+  176  git push origin master
+  177  cd ..
+  178  touch server_lesson/linux_practice/public/index.php
+  179  ls touch server_lesson/linux_practice/public
+  180  ls server_lesson/linux_practice/public
+  181  git add .
+  182  git init
+  183  git remote add origin https://github.com/RyoAsai-git/linux_curriculum.git
+  184  git remote -v
+  185  git add .
+  186  git commit -m "first commit"
+  187  git status
+  188  git push origin master
+  189  cd seq
+  190  cd server_lesson/
+  191  ls
+  192  cd ..
+  193  git add .
+  194  git diff
+  195  cd server_lesson/
+  196  ls
+  197  cd linux_practice/
+  198  ls
+  199  cd public
+  200  ls
+  201  cd ..
+  202  cd /vagrant/server_lesson && ls
+  203  cd /
+  204  cd /vagrant/server_lesson && ls
+  205  cd ..
+  206  cd ~
+  207  cd vagrant
+  208  ls
+  209  cd server_lesson/
+  210  cd /linux_practice/public
+  211  cd linux_practice/public
+  212  cp index.php index_bk.php
+  213  ls
+  214  git add .
+  215  git commit -m "index_bk.php"
+  216  git push origin master
+  217  cd ..
+  218  cp -r puclic tmp
+  219  cp -r public tmp
+  220  ls
+  221  ls ./ public tmp
+  222  ls
+  223  cd tmp
+  224  ls
+  225  cd ..
+  226  mv server_lesson/linux_practice server_lesson/linux_practice1
+  227  ls
+  228  cd server_lesson/
+  229  ls
+  230  mkdir linux_practice2 linux_pracice3
+  231  ls
+  232  mv ./linux_practice2 ./server_lesson
+  233  ls
+  234  cd server_lesson/
+  235  ls
+  236  cd ..
+  237  ls
+  238  cd server_lesson/
+  239  ls
+  240  git ls-files
+  241  cd ..
+  242  git ls-files
+  243  cd server_lesson/
+  244  git ls-files
+  245  ls
+  246  mv ./linux_practice2 ./server_lesson
+  247  ls
+  248  git add .
+  249  git add --all
+  250  git commit -m "ディレクトリ作成"
+  251  git push origin master
+  252  ls
+  253  cd server_lesson/
+  254  ls
+  255  ls -a 
+  256  cd linux
+  257  cd ..
+  258  cd linux_pracice3
+  259  ls
+  260  cd ..
+  261  cd linux_practice1
+  262  ls
+  263  cd ..
+  264  cd server_lesson/
+  265  ls
+  266  cd server_lesson/
+  267  cd 
+  268  /server_lesson/linux_practice1/tmp/
+  269  server_lesson/linux_practice1/tmp/
+  270  cd server_lesson/linux_practice1/tmp/
+  271  rm *_bk.php
+  272  ls
+  273  git add .
+  274  git add all
+  275  git add --all
+  276  git commit - "tmp/index_bk.php削除"
+  277  git commit -m "tmp/index_bk.php削除"
+  278  git push origin master
+  279  cd ..
+  280  ls
+  281  rm -r linux_practice3
+  282  rm -r linux_pracice3
+  283  ls
+  284  rm first.txt
+  285  ls
+  286  git add --all
+  287  git commit -m "first.txt linux_practice3削除"
+  288  git push origin master
+  289  ls
+  290  echo '# サーバレッスン' > README.md
+  291  ls
+  292  echo 'Linuxプラクティス' >> README.md
+  293  echo '-----------------' >> README.md
+  294  ls
+  295  cat README.md 
+  296  ls
+  297  vi README.md 
+  298  git add .
+  299  git commit -m "README.md作成"
+  300  git push origin RyoAsai
+  301  git push origin master
+  302  ls
+  303  mkdir linux_practice2
+  304  ls
+  305  cd server_lesson/
+  306  ls
+  307  cd ..
+  308  rmdir server_lesson
+  309  ls
+  310  cd linux_practice2
+  311  ls
+  312  mkdir documents
+  313  ls
+  314  cd document
+  315  cd documents
+  316  ls
+  317  touch gizumo{1..50}.md
+  318  ls
+  319  rm gizumo{1..50}.md
+  320  ls
+  321  touch gizumo{01..50}.md
+  322  ls
+  323  cd ..
+  324  mkdir trash
+  325  ls
+  326  touch gitignore
+  327  ls
+  328  cd documents/
+  329  ls
+  330  mv gizumo{20..40}.md /linux_practice2/trash
+  331  mv gizumo{20..40}.md server_lesson/linux_practice2/trash
+  332  mv gizumo{20..40}.md ../trash
+  333  ls
+  334  cd ..
+  335  cd trash
+  336  ls
+  337  cd ..
+  338  vi gitignore
+  339  cat gitignore 
+  340  history 300
+  341  history 300 -w exec_command.log
+  342  vi exec_command.log
+  343  ls
+  344  cat exec_command.log 
+  345  git add .
+  346  git commit -m "課題2"
+  347  git diff -staged
+  348  git diff --staged
+  349  git reset HEAD
+  350  ls
+  351  vi gitignore
+  352  git add .
+  353  vi gitignore
+  354  git reset HEAD --all
+  355  git reset HEAD .
+  356  git add .
+  357  git diff --staged
+  358  git diff --cached
+  359  git reset --hard HEAD^
+  360  git status
+  361  cd ..
+  362  git status
+  363  cd linux_practice2
+  364  cd linux_practice2/
+  365  ls
+  366  mkdir linux_practice2
+  367  cd linux_practice2
+  368  ls
+  369  mkdir documents
+  370  ls
+  371  cd documents
+  372  touch gizumo{01..50}.md
+  373  ls
+  374  cd ..
+  375  mkdir trash 
+  376  ls
+  377  cd trash
+  378  cd ..
+  379  cd docuq
+  380  cd documents/
+  381  ls
+  382  mv gizumo{20..40}.md ../trash
+  383  ls
+  384  cd ..
+  385  ls
+  386  cd trash
+  387  ls
+  388  cd ..
+  389  touch gitignore
+  390  ls
+  391  history300
+  392  history 300
